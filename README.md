@@ -3,11 +3,15 @@ VIACOIN modifications
 
 add these coin attributes for Viacoin in bitcore.js
 
-  pubkeyhash: 0x47,
-  privatekey: 0xc7,
-  scripthash: 0x21,
-  xpubkey:  0x0488b21e,
-  xprivkey: 0x0488ade4,
+  pubkeyhash: 0x47
+  
+  privatekey: 0xc7
+  
+  scripthash: 0x21
+  
+  xpubkey:  0x0488b21e
+  
+  xprivkey: 0x0488ade4
 
 
 
